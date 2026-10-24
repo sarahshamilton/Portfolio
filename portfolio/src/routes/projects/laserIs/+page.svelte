@@ -169,10 +169,10 @@
         <h1>LASER Inventory System (LASERIS)</h1>
         <h2>Dec 2024 - Present | C# · SQLite · ASP.NET Core · GitHub - Open source</h2>
         <div class="buttons">
-            <a href="https://github.com/UOL-LASER/LASERIS">
+            <a href="https://github.com/sarahshamilton/LASERIs">
                 <img src="{github}" />
             </a>
-            <a href="https://github.com/UOL-LASER/LASERISAPI">
+            <a href="https://github.com/sarahshamilton/LASERIsAPI">
                 <img src="{github}" />
             </a>
         </div>

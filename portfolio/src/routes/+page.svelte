@@ -150,7 +150,7 @@
         <h2>About Me</h2>
         <div class="userinfo">
             <img class="profilepicture" src={profilepicture} alt="Profile Picture">
-            <p class="name">Peter Hamilton</p>
+            <p class="name">Sarah Hamilton</p>
             <p class="about">Computer Science student
               at UOL | Self-taught
               programmer with
@@ -234,7 +234,7 @@
             </a> 
             </div>
             <div class="item">
-            <a href="https://laseruol.space/">
+            <a href="https://github.com/sarahshamilton/laser_website">
             <img src="{laser}" alt="LASER Icon">
             <h3>LASER Website</h3>
             <p>A website built with SvelteKit.</p>

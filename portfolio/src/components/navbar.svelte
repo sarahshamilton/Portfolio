@@ -1,4 +1,4 @@
-<!--Peter Hamilton 21/2/24-->
+<!--Sarah Hamilton 21/2/24-->
 <!-- Navbar.svelte -->
 <script>
     import logo from '$lib/assets/logo.svg';

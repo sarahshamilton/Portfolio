@@ -191,7 +191,7 @@
 <h2>Jul 2023 - Aug 2024 | C#/HTML/CSS/JAVASCRIPT/RAZOR/ASP.NET
     CORE/ELECTRON.NET · GitHub - Open source </h2>
     <div class="buttons">
-        <a href="https://github.com/Pa1yn-dev/MailLobbyer">
+        <a href="https://github.com/sarahshamilton/MailLobbyer">
             <img src="{github}"/>
         </a>
     </div>

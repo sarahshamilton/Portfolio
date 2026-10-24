@@ -1,4 +1,4 @@
-<!--Peter Hamilton 21/2/24-->
+<!--Sarah Hamilton 21/2/24-->
 <!-- Navbar.svelte -->
 <script>
     import logo from '$lib/assets/logo.svg';
@@ -73,7 +73,7 @@
   <div class="navbar">
     <div class="navbar-brand">
       <a href="/"><div class="logo-container">
-        <span class="logo-text">Pa1yN-Dev</span>
+        <span class="logo-text">sarahshamilton</span>
       </div></a>
     </div>
     <div class="navbar-links">

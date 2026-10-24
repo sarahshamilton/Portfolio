@@ -172,7 +172,7 @@
 <h1>LASER Safety Compliance Service</h1>
 <h2>Nov 2023 - Present | PYTHON/C# · GitHub - Open source</h2>
 <div class="buttons">
-    <a href="https://github.com/UOL-LASER/LASERLabSafetyService">
+    <a href="https://github.com/sarahshamilton/LASERLabSafetyService_Archive">
         <img src="{github}"/>
     </a>
 </div>

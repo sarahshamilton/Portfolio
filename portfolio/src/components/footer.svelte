@@ -1,4 +1,4 @@
-<!--Peter Hamilton 21/2/24-->
+<!--Sarah Hamilton 21/2/24-->
 <script>
     import '@fontsource-variable/source-code-pro';
     import '@fontsource/gugi';
@@ -87,11 +87,10 @@
 
 <div class="footer">
     <div class="footer-icons">
-        <a href="https://www.linkedin.com/in/phamilton360"><img src={linkedin} alt="LinkedIn"></a>
-        <a href="https://github.com/Pa1yn-dev"><img src={github} alt="GitHub"></a>
-        <a href="mailto:peterhamilton522@gmail.com"><img src={email} alt="Email"></a>
+        <a href="https://github.com/sarahshamilton"><img src={github} alt="GitHub"></a>
+        <a href="mailto:sgphamil@liverpool.ac.uk"><img src={email} alt="Email"></a>
     </div>
 
-    <p>&copy; Peter Hamilton {currentYear}</p>
+    <p>&copy; Sarah Hamilton {currentYear}</p>
 </div>
 
